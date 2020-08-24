@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<abapGit version="v1.0.0" serializer="LCL_OBJECT_OTGR" serializer_version="v1.0.0">
+ <asx:abap xmlns:asx="http://www.sap.com/abapxml" version="1.0">
+  <asx:values>
+   <OTGR>
+    <CLS_TYPE_GROUP>
+     <NAME>ZABAPGIT_TESTS</NAME>
+    </CLS_TYPE_GROUP>
+    <TEXTS>
+     <CLS_TYPE_GROUPT>
+      <LANGU>E</LANGU>
+      <TEXT>abapGit tests</TEXT>
+     </CLS_TYPE_GROUPT>
+    </TEXTS>
+    <ELEMENTS>
+     <CLS_TYGR_ELEMENT>
+      <TYPE>DEVC</TYPE>
+     </CLS_TYGR_ELEMENT>
+    </ELEMENTS>
+   </OTGR>
+  </asx:values>
+ </asx:abap>
+</abapGit>

@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<abapGit version="v1.0.0" serializer="LCL_OBJECT_CHAR" serializer_version="v1.0.0">
+ <asx:abap xmlns:asx="http://www.sap.com/abapxml" version="1.0">
+  <asx:values>
+   <CHAR>
+    <CLS_ATTRIBUTE>
+     <NAME>ZABAPGIT_INTEGRATION_TEST</NAME>
+     <ACTIVATION_STATE>A</ACTIVATION_STATE>
+     <KIND>A</KIND>
+     <TYPE_GROUP>ZABAPGIT_TESTS</TYPE_GROUP>
+     <IS_SINGLE_VALUED>X</IS_SINGLE_VALUED>
+     <VISIBLE_FOR_CUST>X</VISIBLE_FOR_CUST>
+     <ARBTRY_VAL_TYPE>C</ARBTRY_VAL_TYPE>
+     <ASSIGNMENT_DEVC>O</ASSIGNMENT_DEVC>
+     <MANU_CHAG_ALLOW>X</MANU_CHAG_ALLOW>
+    </CLS_ATTRIBUTE>
+    <CLS_ATTRIBUTET>
+     <CLS_ATTRIBUTET>
+      <NAME>ZABAPGIT_INTEGRATION_TEST</NAME>
+      <ACTIVATION_STATE>A</ACTIVATION_STATE>
+      <LANGU>E</LANGU>
+      <TEXT>abapGit integration tests</TEXT>
+     </CLS_ATTRIBUTET>
+    </CLS_ATTRIBUTET>
+   </CHAR>
+  </asx:values>
+ </asx:abap>
+</abapGit>
